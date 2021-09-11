@@ -1,0 +1,16 @@
+html {
+	font-size: 62.25%; /* inace bi moglo 100% */ /* spustit ce pixele sa 16px na 10, tako da ako koristimo rem onda ce 1rem=10px */
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+    font-size: 1.6em; /* stavlja da su po defaultu fontovi 16px, tj 1.6rem */
+}
