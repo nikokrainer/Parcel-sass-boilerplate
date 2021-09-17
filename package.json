@@ -2,7 +2,7 @@
   "name": "parcel-sass-boilerplate",
   "version": "1.0.0",
   "description": "Parcel sass boilerplate",
-  "main": "src/scripts/script.js",
+  "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
