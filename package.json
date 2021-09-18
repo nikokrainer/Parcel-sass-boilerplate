@@ -17,11 +17,9 @@
     "url": "https://github.com/nikokrainer/Parcel-sass-boilerplate/issues"
   },
   "homepage": "https://github.com/nikokrainer/Parcel-sass-boilerplate#readme",
-  "dependencies": {
-    "sass": "^1.39.2"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.0.0-rc.0",
-    "parcel": "^2.0.0-rc.0"
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.41.1"
   }
 }
